@@ -13,12 +13,12 @@ class Server {
 
   createServer = () => {
     this.server = restify.createServer({
-        name: 'Bushmills API',
+        name: 'CMarvel API',
         version: '1.0.0',
         log: this.logger,
     });
     this.initializeServer();
-    // this.useMiddlewares();
+    this.useMiddlewares();
     this.addRoutes();
     this.startListening();
   }
