@@ -8,7 +8,7 @@
 
 ## Requirements
 
- - node >= 10.0.0
+ - node.js >= 10.0.0
  - npm >= 5.6.0
 
 ## How to run
