@@ -23,4 +23,4 @@ Production Environment
 
 ## License
 
-CMarvel is [MIT licensed]([https://github.com/sahilthakral23/cmarvel/blob/master/LICENSE](https://github.com/sahilthakral23/cmarvel/blob/master/LICENSE))
+CMarvel is [MIT licensed](./LICENSE)
