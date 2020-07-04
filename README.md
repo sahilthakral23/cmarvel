@@ -8,10 +8,19 @@
 
 ## Requirements
 
-## Usage
+ - node >= 10.0.0
+ - npm >= 5.6.0
 
-## How to Contribute
+## How to run
 
-## Credits
+Development Environment
+
+    npm run dev
+
+Production Environment
+
+    npm run server
 
 ## License
+
+CMarvel is [MIT licensed]([https://github.com/sahilthakral23/cmarvel/blob/master/LICENSE](https://github.com/sahilthakral23/cmarvel/blob/master/LICENSE))
