@@ -10,6 +10,8 @@
 
  - Easily define endpoints
  - Configuration-loader & logging module included
+ - API Authentication
+ - Dependency Injection
  - Supports MySQL DB integration
 
 ## Requirements
